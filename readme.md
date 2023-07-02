@@ -1,5 +1,5 @@
 <div align="center">
-## Coffdel
+M&L
   <br />
   <a href="#getting-started"><strong>Getting Started »</strong></a>
   <br />
